@@ -9,30 +9,31 @@ You can click the Preview link to take a look at your changes.
 
 ```mermaid
 timeline
-    title AI发展重要变革时间线
+    title AI技术重大变革时间轴
     
-    section 早期基础
-    1950 : 图灵测试提出<br/>《计算机器与智能》发表
-    1956 : 达特茅斯会议<br/>"人工智能"术语诞生
+    section 理论奠基
+    1950 : 图灵提出"模仿游戏"测试框架
+    1956 : 达特茅斯会议确立AI研究领域
+    1980 : 反向传播算法提出
     
-    section 技术突破
-    1997 : IBM深蓝击败国际象棋冠军
-    2012 : AlexNet引发深度学习革命
-    2016 : AlphaGo战胜李世石
-    2017 : Transformer架构提出
-    2020 : GPT-3展示强大生成能力
-    2022 : 多模态模型突破（DALL·E 2/Stable Diffusion）
+    section 算法革命
+    1997 : LSTM神经网络架构诞生
+    2012 : AlexNet实现图像识别突破
+    2014 : GAN生成对抗网络问世
+    2015 : ResNet解决梯度消失问题
+    2017 : Transformer架构颠覆NLP领域
     
-    section 应用扩展
-    2011 : Siri开启个人助手时代
-    2014 : 首款自动驾驶汽车获批
-    2018 : 医疗AI通过执业医师考试
-    2021 : Codex实现自然语言编程
-    2023 : 通用AI助手普及化应用
+    section 能力跃迁
+    2018 : BERT模型开启预训练新时代
+    2020 : GPT-3展示涌现能力
+    2021 : AlphaFold2破解蛋白质折叠
+    2022 : Diffusion模型革新图像生成
+    2023 : GPT-4实现多模态推理
     
-    section 伦理与治理
-    2018 : GDPR实施影响AI数据使用
-    2021 : 首个AI伦理准则发布
-    2023 : 欧盟AI法案通过
-    2024 : 全球AI安全峰会召开
+    section 架构创新
+    2016 : 神经架构搜索(NAS)自动化
+    2019 : 联邦学习框架成熟
+    2021 : 混合专家(MoE)模型扩展
+    2022 : 基于注意力的视觉Transformer
+    2023 : 世界模型架构探索
 ```
